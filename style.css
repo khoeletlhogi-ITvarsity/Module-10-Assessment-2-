@@ -93,6 +93,7 @@ body {
 
 #meals {
     padding-top: 50px;
+    width: 75%;
 }
 
 .meals-list a {
