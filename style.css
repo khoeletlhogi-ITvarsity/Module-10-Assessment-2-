@@ -119,6 +119,7 @@ body {
 
 
 .meals-list-items p {
+    float: left;
     padding: 10px;
     font-size: 15px;
     font-style: italic;
